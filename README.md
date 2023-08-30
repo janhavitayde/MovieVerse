@@ -1,10 +1,10 @@
 "MovieVerse" is a groundbreaking movie recommendation system that employs the power of machine learning to bring you a curated selection of films perfectly aligned with your tastes. By harnessing the vast dataset of 5000 movies from TMDB and leveraging advanced techniques such as Cosine Similarity and efficient word processing with Porter Stemmer, MovieVerse achieves an unprecedented 95% accuracy in delivering personalized movie recommendations. 
 
 ![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/00dbcfb4-e46c-471a-ba01-a5b2c8a372ea)
-![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/a74fbfac-3960-4e5e-bf1f-c1f9fb0c3ded)
-![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/c8aa7806-9952-404c-bfec-4aa2e9191f43)
-![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/1a872dff-7251-4875-86dd-ff837b351862)
 ![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/a841dd47-c275-4f93-a31c-252f72d1ae49)
+![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/a74fbfac-3960-4e5e-bf1f-c1f9fb0c3ded)
+![image](https://github.com/janhavitayde/MovieVerse/assets/99615172/1a872dff-7251-4875-86dd-ff837b351862)
+
 
 TMDB Dataset Integration:
 MovieVerse taps into a comprehensive dataset of 5000 movies from TMDB, encompassing diverse genres, actors, directors, and release years. This rich dataset forms the foundation for accurate recommendations.
